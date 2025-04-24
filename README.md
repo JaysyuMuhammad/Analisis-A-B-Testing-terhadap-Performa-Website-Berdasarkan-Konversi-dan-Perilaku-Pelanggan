@@ -14,7 +14,7 @@ Dataset terdiri dari informasi pengguna, termasuk:
 - Lokasi geografis (England, Scotland, Wales, Northern Ireland)
 - Time Spent (lama waktu pengguna berada di situs)
 - Page Views (jumlah halaman yang dilihat)
-- Apakah pengguna melakukan konversi atau tidak
+- Conversion (Apakah pengguna melakukan konversi atau tidak)
 
 ## 📌 Metodologi
 
