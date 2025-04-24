@@ -76,4 +76,4 @@ Perubahan warna latar belakang situs dari putih ke hitam terbukti memiliki penga
 
 ## 📬 Kontak
 
-Untuk pertanyaan lebih lanjut, silakan hubungi melalui GitHub issue atau email: **[email kamu di sini]**
+Untuk pertanyaan lebih lanjut, silakan hubungi melalui GitHub issue atau email: **muhammadjaysyu@gmail.com**
