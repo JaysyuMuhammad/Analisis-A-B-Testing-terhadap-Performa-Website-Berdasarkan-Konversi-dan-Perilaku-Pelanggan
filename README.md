@@ -66,7 +66,7 @@ Perubahan warna latar belakang situs dari putih ke hitam terbukti memiliki penga
 - Implementasi tampilan dengan **background hitam** secara penuh dapat dipertimbangkan untuk meningkatkan tingkat konversi.
 - Lakukan **eksperimen lanjutan** dengan elemen visual lainnya (warna tombol, layout, dll).
 - Pertimbangkan segmentasi berdasarkan **lokasi dan perangkat** untuk personalisasi yang lebih tajam.
-- Gunakan pendekatan **data-driven** dalam seluruh pengambilan keputusan desain dan UI/UX.
+- Gunakan pendekatan **data-driven** dalam seluruh pengambilan keputusan pengembangan bisnis.
 
 ## ⚙️ Teknologi yang Digunakan
 
